@@ -2,8 +2,6 @@
 
 I'm Marwan Khodair, a junior cybersecurity professional currently studying at The Egyptian E-Learning University (EELU). I have a strong passion for ethical hacking, penetration testing, and red teaming. I enjoy learning how real-world attacks work and how to simulate them to find security weaknesses. My goal is to build strong offensive security skills, perform detailed security tests, and help organisations understand their risks. I look forward to working with motivated teams, solving challenging security problems, and making a real impact in the cybersecurity field
 
-  <img src="https://github.com/user-attachments/assets/94af41f8-a1ba-4b3c-b7fc-9175e5ea7f77" alt="Cyber GIF" width="300" style="margin-left: 20px;"/>
-
 Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-marwankhodair-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-khodair)
