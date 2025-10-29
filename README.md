@@ -6,6 +6,6 @@ Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-marwankhodair-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-khodair)
 
-[![Gmail Badge](https://img.shields.io/badge/-marwankhodair@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedmosa6000@gmail.com)](mailto:marwankhodair0@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-marwankhodair0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedmosa6000@gmail.com)](mailto:marwankhodair0@gmail.com)
 
 
