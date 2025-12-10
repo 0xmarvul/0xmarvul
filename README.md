@@ -10,17 +10,6 @@ Here are my current stats:
 - 🐞 **Accepted Vulnerabilities:** `11`
 - ♻️ **Duplicate Reports:** `1`
 
-<!-- You can update these numbers whenever you have new achievements! -->
-
----
-
-### Platforms & Programs
-- HackerOne
-- Bugcrowd
-- Private programs...
-
----
-
 > _Continuous learning, responsible disclosure, and making the web safer!_
 
 
