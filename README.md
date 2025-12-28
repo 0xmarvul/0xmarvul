@@ -7,8 +7,8 @@ I'm Marwan Khodair, a junior cybersecurity professional currently studying at Th
 Proud to share my journey as a bug bounty hunter!  
 Here are my current stats:
 
-- 🐞 **Accepted Vulnerabilities:** `14`
-- ♻️ **Duplicate Reports:** `1`
+- 🐞 **Accepted Vulnerabilities:** `12`
+- ♻️ **Duplicate Reports:** `2`
 
 > _Continuous learning, responsible disclosure, and making the web safer!_
 
