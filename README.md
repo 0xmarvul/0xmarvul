@@ -8,7 +8,7 @@ Proud to share my journey as a bug bounty hunter!
 Here are my current stats:
 
 - 🐞 **Accepted Vulnerabilities:** `19`
-- ♻️ **Duplicate Reports:** `2`
+- ♻️ **Duplicate Reports:** `3`
 
 > _Continuous learning, responsible disclosure, and making the web safer!_
 
