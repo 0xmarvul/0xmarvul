@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Bug+Bounty+Hunter;Red+Teamer;Penetration+Tester)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Bug+Bounty+Hunter;Penetration+Tester)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -22,7 +22,6 @@
 
 [![Accepted](https://img.shields.io/badge/Accepted%20Vulnerabilities-19-brightgreen?style=for-the-badge)](https://github.com/0xmarvul)
 [![Duplicates](https://img.shields.io/badge/Duplicate%20Reports-3-orange?style=for-the-badge)](https://github.com/0xmarvul)
-[![Acceptance Rate](https://img.shields.io/badge/Acceptance%20Rate-86%25-gold?style=for-the-badge)](https://github.com/0xmarvul)
 
 </div>
 
@@ -55,7 +54,8 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**BaseeraExt**](https://github.com/0xmarvul/BaseeraExt) | A full-stack browser extension with a backend API, featuring data collection and processing capabilities | JavaScript, Python, C#, HTML/CSS, TSQL |
+| <a href="https://github.com/0xmarvul/Bug-Bounty-Hunting-Checklist">**Bug-Bounty-Hunting-Checklist**</a> | A comprehensive interactive bug bounty hunting checklist web app with a live demo at <a href="https://0xmarvul.github.io/Bug-Bounty-Hunting-Checklist/">0xmarvul.github.io</a> | HTML, CSS, JavaScript |
+| <a href="https://github.com/0xmarvul/0xMarvul_RECON_FLOW">**0xMarvul_RECON_FLOW**</a> | A comprehensive bash-based reconnaissance automation tool for bug bounty hunting — automates subdomain enumeration, live host discovery, URL gathering, and sensitive file detection | Shell / Bash |
 
 ---
 
@@ -63,11 +63,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xmarvul&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=0xmarvul&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xmarvul&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xmarvul&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmarvul&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
