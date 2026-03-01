@@ -63,9 +63,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xmarvul&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<a href="https://github.com/0xmarvul">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xmarvul&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="495" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmarvul&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/0xmarvul">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xmarvul&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="495" />
+</a>
 
 </div>
 
@@ -77,6 +81,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwan%20Khodair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-khodair)
 [![Gmail](https://img.shields.io/badge/Gmail-marwankhodair0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwankhodair0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0xmarvul-00FF41?style=for-the-badge&logo=googlechrome&logoColor=white)](https://0xmarvul.github.io/Portfolio_/)
 
 </div>
 
