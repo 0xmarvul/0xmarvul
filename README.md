@@ -20,8 +20,8 @@
 
 <div align="center">
 
-[![Accepted](https://img.shields.io/badge/Accepted%20Vulnerabilities-19-brightgreen?style=for-the-badge)](https://github.com/0xmarvul)
-[![Duplicates](https://img.shields.io/badge/Duplicate%20Reports-3-orange?style=for-the-badge)](https://github.com/0xmarvul)
+[![Accepted](https://img.shields.io/badge/Accepted%20Vulnerabilities-25+-brightgreen?style=for-the-badge)](https://github.com/0xmarvul)
+[![Duplicates](https://img.shields.io/badge/Duplicate%20Reports-4-orange?style=for-the-badge)](https://github.com/0xmarvul)
 
 </div>
 
