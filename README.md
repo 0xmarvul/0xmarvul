@@ -10,7 +10,7 @@
 
 - 🎓 Studying at **The Egyptian E-Learning University (EELU)**
 - 🔐 Passionate about **ethical hacking, penetration testing & red teaming**
-- 🐞 Active bug bounty hunter with **25+ accepted vulnerabilities**
+- 🐞 Active bug bounty hunter with **30+ accepted vulnerabilities**
 - 🎯 Goal: Build strong offensive security skills & help organizations understand their risks
 - 🌱 Always learning, always hacking (responsibly!)
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Accepted](https://img.shields.io/badge/Accepted%20Vulnerabilities-25+-brightgreen?style=for-the-badge)](https://github.com/0xmarvul)
+[![Accepted](https://img.shields.io/badge/Accepted%20Vulnerabilities-30+-brightgreen?style=for-the-badge)](https://github.com/0xmarvul)
 [![Duplicates](https://img.shields.io/badge/Duplicate%20Reports-4-orange?style=for-the-badge)](https://github.com/0xmarvul)
 
 </div>
