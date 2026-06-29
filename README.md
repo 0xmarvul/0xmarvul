@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-- 🎓 Studying at **The Egyptian E-Learning University (EELU)**
+- 🎓 Graduated from **The Egyptian E-Learning University (EELU)**
 - 🔐 Passionate about **ethical hacking, penetration testing & red teaming**
 - 🐞 Active bug bounty hunter with **30+ accepted vulnerabilities**
 - 🎯 Goal: Build strong offensive security skills & help organizations understand their risks
