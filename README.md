@@ -60,9 +60,9 @@ Currently building toward private program access and expanding my offensive secu
 
 <div align="center">
 
-| Role | Organization | Focus |
-|---|---|---|
-| Cybersecurity Intern | **We Innovate × ZeroSploit MEA** | Penetration testing, vulnerability research, red team methodology |
+| Role | Organization |
+|---|---|
+| Cybersecurity Intern | **We Innovate × ZeroSploit MEA** |
 
 </div>
 
@@ -70,26 +70,14 @@ Currently building toward private program access and expanding my offensive secu
 
 ## 🛠️ Arsenal
 
-**Recon & Enumeration:**
-
 ![Subfinder](https://img.shields.io/badge/Subfinder-0d1117?style=flat-square&logoColor=00CFA8)
 ![Amass](https://img.shields.io/badge/Amass-0d1117?style=flat-square&logoColor=00CFA8)
 ![httpx](https://img.shields.io/badge/httpx-0d1117?style=flat-square&logoColor=00CFA8)
 ![ffuf](https://img.shields.io/badge/ffuf-0d1117?style=flat-square&logoColor=00CFA8)
 ![Nuclei](https://img.shields.io/badge/Nuclei-0d1117?style=flat-square&logoColor=00CFA8)
-
-**Exploitation & Analysis:**
-
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-
-**Languages:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
