@@ -19,7 +19,7 @@
 
 ---
 
-## 🏆 Hall of Fame
+## Hall of Fame
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 👤 About
+## About
 
 Security researcher and bug bounty hunter with 30+ accepted vulnerability disclosures across some of the world's largest organizations. I specialize in web application and API security, hunting on HackerOne and Intigriti. I dig deep into JS bundles, API traffic, and authentication flows to find what automated scanners miss.
 
@@ -45,7 +45,7 @@ Currently building toward private program access and expanding my offensive secu
 
 ---
 
-## 🎯 Vulnerability Portfolio
+## Vulnerability Portfolio
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Currently building toward private program access and expanding my offensive secu
 
 ---
 
-## 💼 Experience
+## Experience
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Currently building toward private program access and expanding my offensive secu
 
 ---
 
-## 🛠️ Arsenal
+## Arsenal
 
 <div align="center">
 
@@ -93,7 +93,7 @@ Currently building toward private program access and expanding my offensive secu
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project | Description |
 |---|---|
@@ -102,7 +102,7 @@ Currently building toward private program access and expanding my offensive secu
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
