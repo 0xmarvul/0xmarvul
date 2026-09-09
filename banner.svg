@@ -13,9 +13,6 @@
   <!-- Background -->
   <rect width="900" height="260" fill="#0d1117"/>
 
-  <!-- Top / bottom accent lines -->
-  <rect x="0" y="0" width="900" height="2" fill="#00CFA8" opacity="0.9"/>
-  <rect x="0" y="258" width="900" height="2" fill="#00CFA8" opacity="0.9"/>
 
   <!-- LEFT matrix rain -->
   <text x="18" y="32"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.18;0.04" dur="3.1s" repeatCount="indefinite" begin="0.0s"/>0</text>
@@ -125,9 +122,4 @@
     <animate attributeName="opacity" values="0.55;0.9;0.55" dur="3.5s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Scan line -->
-  <rect x="0" y="0" width="900" height="2.5" fill="#00CFA8">
-    <animateTransform attributeName="transform" type="translate" values="0,-3;0,263" dur="5s" repeatCount="indefinite" calcMode="linear" begin="0.8s"/>
-    <animate attributeName="opacity" values="0;0.45;0.45;0" keyTimes="0;0.03;0.97;1" dur="5s" repeatCount="indefinite" begin="0.8s"/>
-  </rect>
 </svg>
