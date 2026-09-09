@@ -43,14 +43,14 @@ Currently building toward private program access and expanding my offensive secu
 
 <div align="center">
 
-| Vulnerability Class | Severity |
-|---|---|
-| Improper Access Control / BAC | 🔴 High |
-| Improper Authentication for Critical Functions | 🔴 High |
-| Subdomain Takeover | 🟠 Medium–High |
-| Cross-Site Scripting (XSS) | 🟠 Medium |
-| Information Disclosure | 🟡 Medium |
-| Insecure Storage | 🟡 Medium |
+| Vulnerability Class |
+|---|
+| Improper Access Control / BAC |
+| Improper Authentication for Critical Functions |
+| Subdomain Takeover |
+| Cross-Site Scripting (XSS) |
+| Information Disclosure |
+| Insecure Storage |
 
 </div>
 
