@@ -1,6 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1200&color=00CFA8&center=true&vCenter=true&width=750&height=90&lines=0xMarvul;Security+Researcher;Bug+Bounty+Hunter;Recognized+by+Yahoo+%C2%B7+AT%26T+%C2%B7+IBM+%C2%B7+DoD)](https://readme-typing-svg.demolab.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003d30,100:0d1117&height=220&section=header&text=0xMarvul&fontSize=68&fontColor=00CFA8&animation=twinkling&fontAlignY=38&desc=Security%20Researcher%20%C2%B7%20Bug%20Bounty%20Hunter&descAlignY=62&descSize=18&descColor=C9D1D9" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=00CFA8&center=true&vCenter=true&width=750&height=60&lines=Recognized+by+Yahoo+%C2%B7+AT%26T+%C2%B7+IBM+%C2%B7+DoD;30%2B+Accepted+Vulnerabilities;Active+on+HackerOne+%26+Intigriti)](https://readme-typing-svg.demolab.com)
 
 <br>
 
@@ -81,6 +87,7 @@ Currently building toward private program access and expanding my offensive secu
 ![httpx](https://img.shields.io/badge/httpx-0d1117?style=for-the-badge&logoColor=00CFA8)
 ![ffuf](https://img.shields.io/badge/ffuf-0d1117?style=for-the-badge&logoColor=00CFA8)
 ![Nuclei](https://img.shields.io/badge/Nuclei-0d1117?style=for-the-badge&logoColor=00CFA8)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-0d1117?style=for-the-badge&logoColor=00CFA8)
 
 </div>
 
