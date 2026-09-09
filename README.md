@@ -6,7 +6,7 @@
 
 ---
 
-**Marwan Khodair** - security researcher focused on web application vulnerabilities and responsible disclosure. I hunt on public and private bug bounty programs, write custom tooling to automate recon, and believe the best way to learn security is to break real things (with permission).
+**Marwan Khodair** — security researcher focused on web application vulnerabilities and responsible disclosure. I hunt on public and private bug bounty programs, write custom tooling to automate recon, and believe the best way to learn security is to break real things (with permission).
 
 30+ accepted vulnerabilities across programs on HackerOne and Intigriti. Background in ethical hacking, penetration testing, and red team methodology.
 
