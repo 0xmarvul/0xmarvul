@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:002a1e,100:0d1117&height=220&section=header&text=0xMarvul&fontSize=72&fontColor=00CFA8&animation=twinkling&fontAlignY=38&desc=Security%20Researcher%20%C2%B7%20Bug%20Bounty%20Hunter&descAlignY=62&descSize=17&descColor=8B949E" width="100%"/>
 
 </div>
 
@@ -119,3 +119,5 @@ Currently building toward private program access and expanding my offensive secu
 ![Profile Views](https://komarev.com/ghpvc/?username=0xmarvul&color=00CFA8&style=flat-square&label=profile+views)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:002a1e,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
