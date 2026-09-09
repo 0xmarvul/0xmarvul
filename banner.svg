@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900">
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="sm-glow" x="-15%" y="-20%" width="130%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="260" fill="#0d1117"/>
+
+  <!-- Top / bottom accent lines -->
+  <rect x="0" y="0" width="900" height="2" fill="#00CFA8" opacity="0.9"/>
+  <rect x="0" y="258" width="900" height="2" fill="#00CFA8" opacity="0.9"/>
+
+  <!-- LEFT matrix rain -->
+  <text x="18" y="32"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.18;0.04" dur="3.1s" repeatCount="indefinite" begin="0.0s"/>0</text>
+  <text x="18" y="49"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.14;0.03" dur="2.8s" repeatCount="indefinite" begin="0.3s"/>x</text>
+  <text x="18" y="66"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.17;0.05" dur="3.5s" repeatCount="indefinite" begin="0.7s"/>F</text>
+  <text x="18" y="83"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.11;0.03" dur="2.6s" repeatCount="indefinite" begin="1.1s"/>A</text>
+  <text x="18" y="118" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.15;0.04" dur="3.7s" repeatCount="indefinite" begin="1.6s"/>7</text>
+  <text x="18" y="165" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.10;0.03" dur="3.3s" repeatCount="indefinite" begin="2.2s"/>/</text>
+  <text x="18" y="210" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.13;0.04" dur="4.0s" repeatCount="indefinite" begin="1.0s"/>B</text>
+  <text x="18" y="248" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.11;0.03" dur="3.8s" repeatCount="indefinite" begin="0.5s"/>3</text>
+
+  <text x="48" y="20"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.17;0.05" dur="2.7s" repeatCount="indefinite" begin="0.4s"/>1</text>
+  <text x="48" y="55"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.14;0.04" dur="3.5s" repeatCount="indefinite" begin="0.8s"/>E</text>
+  <text x="48" y="97"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.06;0.19;0.06" dur="2.9s" repeatCount="indefinite" begin="1.5s"/>9</text>
+  <text x="48" y="155" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.12;0.03" dur="4.2s" repeatCount="indefinite" begin="0.2s"/>C</text>
+  <text x="48" y="198" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.14;0.04" dur="3.6s" repeatCount="indefinite" begin="1.9s"/>D</text>
+  <text x="48" y="240" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.16;0.05" dur="2.9s" repeatCount="indefinite" begin="2.3s"/>5</text>
+
+  <text x="78" y="38"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.16;0.04" dur="3.3s" repeatCount="indefinite" begin="0.7s"/>#</text>
+  <text x="78" y="76"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.10;0.03" dur="2.5s" repeatCount="indefinite" begin="1.2s"/>8</text>
+  <text x="78" y="122" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.18;0.05" dur="3.8s" repeatCount="indefinite" begin="1.7s"/>4</text>
+  <text x="78" y="172" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.13;0.04" dur="4.0s" repeatCount="indefinite" begin="0.9s"/>@</text>
+  <text x="78" y="228" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.15;0.05" dur="2.8s" repeatCount="indefinite" begin="2.1s"/>6</text>
+
+  <text x="108" y="25"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.14;0.04" dur="3.6s" repeatCount="indefinite" begin="0.3s"/>$</text>
+  <text x="108" y="68"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.06;0.19;0.06" dur="2.6s" repeatCount="indefinite" begin="1.4s"/>&gt;</text>
+  <text x="108" y="112" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.11;0.03" dur="3.9s" repeatCount="indefinite" begin="0.6s"/>?</text>
+  <text x="108" y="152" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.16;0.05" dur="3.2s" repeatCount="indefinite" begin="2.0s"/>%</text>
+  <text x="108" y="192" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.13;0.04" dur="4.3s" repeatCount="indefinite" begin="1.7s"/>!</text>
+  <text x="108" y="248" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.17;0.05" dur="2.9s" repeatCount="indefinite" begin="0.1s"/>A</text>
+
+  <text x="138" y="44"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.11;0.03" dur="3.4s" repeatCount="indefinite" begin="1.3s"/>*</text>
+  <text x="138" y="88"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.15;0.05" dur="2.7s" repeatCount="indefinite" begin="2.3s"/>B</text>
+  <text x="138" y="132" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.14;0.04" dur="4.1s" repeatCount="indefinite" begin="0.8s"/>1</text>
+  <text x="138" y="182" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.06;0.18;0.06" dur="3.5s" repeatCount="indefinite" begin="1.5s"/>D</text>
+  <text x="138" y="234" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.12;0.04" dur="2.8s" repeatCount="indefinite" begin="2.5s"/>0</text>
+
+  <!-- RIGHT matrix rain -->
+  <text x="756" y="28"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.17;0.04" dur="3.2s" repeatCount="indefinite" begin="0.2s"/>C</text>
+  <text x="756" y="62"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.12;0.03" dur="2.9s" repeatCount="indefinite" begin="0.7s"/>7</text>
+  <text x="756" y="98"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.18;0.05" dur="3.7s" repeatCount="indefinite" begin="1.2s"/>F</text>
+  <text x="756" y="138" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.14;0.04" dur="4.0s" repeatCount="indefinite" begin="1.8s"/>E</text>
+  <text x="756" y="178" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.15;0.05" dur="3.1s" repeatCount="indefinite" begin="0.5s"/>9</text>
+  <text x="756" y="218" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.10;0.03" dur="2.6s" repeatCount="indefinite" begin="2.0s"/>2</text>
+  <text x="756" y="248" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.19;0.05" dur="3.5s" repeatCount="indefinite" begin="1.0s"/>A</text>
+
+  <text x="794" y="20"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.15;0.04" dur="3.8s" repeatCount="indefinite" begin="0.4s"/>3</text>
+  <text x="794" y="56"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.06;0.18;0.06" dur="2.7s" repeatCount="indefinite" begin="1.6s"/>#</text>
+  <text x="794" y="104" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.13;0.04" dur="4.2s" repeatCount="indefinite" begin="0.9s"/>B</text>
+  <text x="794" y="152" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.16;0.05" dur="3.3s" repeatCount="indefinite" begin="2.2s"/>$</text>
+  <text x="794" y="200" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.10;0.03" dur="2.5s" repeatCount="indefinite" begin="1.3s"/>8</text>
+  <text x="794" y="242" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.15;0.05" dur="3.6s" repeatCount="indefinite" begin="0.6s"/>D</text>
+
+  <text x="830" y="38"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.19;0.05" dur="3.0s" repeatCount="indefinite" begin="1.1s"/>1</text>
+  <text x="830" y="78"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.14;0.04" dur="3.9s" repeatCount="indefinite" begin="0.3s"/>0</text>
+  <text x="830" y="122" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.16;0.05" dur="2.8s" repeatCount="indefinite" begin="1.9s"/>&gt;</text>
+  <text x="830" y="162" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.12;0.03" dur="4.1s" repeatCount="indefinite" begin="0.8s"/>@</text>
+  <text x="830" y="208" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.06;0.18;0.06" dur="3.4s" repeatCount="indefinite" begin="2.4s"/>6</text>
+  <text x="830" y="248" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.13;0.04" dur="2.7s" repeatCount="indefinite" begin="1.5s"/>!</text>
+
+  <text x="864" y="24"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.17;0.05" dur="3.5s" repeatCount="indefinite" begin="0.6s"/>x</text>
+  <text x="864" y="68"  font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.11;0.03" dur="4.3s" repeatCount="indefinite" begin="1.4s"/>4</text>
+  <text x="864" y="116" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.06;0.18;0.06" dur="2.6s" repeatCount="indefinite" begin="2.1s"/>%</text>
+  <text x="864" y="162" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.04;0.15;0.04" dur="3.2s" repeatCount="indefinite" begin="0.2s"/>5</text>
+  <text x="864" y="205" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.05;0.16;0.05" dur="3.7s" repeatCount="indefinite" begin="1.7s"/>*</text>
+  <text x="864" y="248" font-family="Courier New,monospace" font-size="11" fill="#00CFA8"><animate attributeName="opacity" values="0.03;0.10;0.03" dur="2.9s" repeatCount="indefinite" begin="0.9s"/>E</text>
+
+  <!-- Targeting corner brackets -->
+  <path d="M 178 70 L 178 92 M 178 70 L 212 70" stroke="#00CFA8" stroke-width="1.8" fill="none">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite" begin="0.0s"/>
+  </path>
+  <path d="M 722 70 L 722 92 M 722 70 L 688 70" stroke="#00CFA8" stroke-width="1.8" fill="none">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite" begin="0.6s"/>
+  </path>
+  <path d="M 178 196 L 178 174 M 178 196 L 212 196" stroke="#00CFA8" stroke-width="1.8" fill="none">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite" begin="1.2s"/>
+  </path>
+  <path d="M 722 196 L 722 174 M 722 196 L 688 196" stroke="#00CFA8" stroke-width="1.8" fill="none">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite" begin="1.8s"/>
+  </path>
+
+  <!-- Glitch — red channel -->
+  <text x="450" y="150" font-family="Courier New,monospace" font-size="66" font-weight="bold" fill="#FF3366" text-anchor="middle" opacity="0">
+    0xMarvul
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;0.55;0;0;0.3;0;0;0;0;0;0" dur="7s" repeatCount="indefinite" begin="1.5s"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;-4,1;0,0;0,0;3,-1;0,0;0,0;0,0;0,0;0,0;0,0" dur="7s" repeatCount="indefinite" begin="1.5s"/>
+  </text>
+  <!-- Glitch — blue channel -->
+  <text x="450" y="150" font-family="Courier New,monospace" font-size="66" font-weight="bold" fill="#0055FF" text-anchor="middle" opacity="0">
+    0xMarvul
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;0;0.4;0;0;0.2;0;0;0;0;0" dur="7s" repeatCount="indefinite" begin="1.5s"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,-1;0,0;0,0;-3,1;0,0;0,0;0,0;0,0;0,0" dur="7s" repeatCount="indefinite" begin="1.5s"/>
+  </text>
+
+  <!-- Main name -->
+  <text x="450" y="150" font-family="Courier New,monospace" font-size="66" font-weight="bold" fill="#00CFA8" text-anchor="middle" filter="url(#glow)">0xMarvul</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="180" font-family="Courier New,monospace" font-size="13" fill="#8B949E" text-anchor="middle" letter-spacing="3">SECURITY RESEARCHER  ·  BUG BOUNTY HUNTER</text>
+
+  <!-- Dot divider -->
+  <text x="450" y="206" font-family="Courier New,monospace" font-size="9" fill="#00CFA8" text-anchor="middle" opacity="0.35">· · · · · · · · · · · · · · · · · · · · · · · · · · ·</text>
+
+  <!-- HoF recognition line with pulse -->
+  <text x="450" y="228" font-family="Courier New,monospace" font-size="11" fill="#00CFA8" text-anchor="middle" letter-spacing="2" filter="url(#sm-glow)">
+    YAHOO  ·  AT&amp;T  ·  IBM  ·  U.S. DoD  ·  DONORBOX
+    <animate attributeName="opacity" values="0.55;0.9;0.55" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Scan line -->
+  <rect x="0" y="0" width="900" height="2.5" fill="#00CFA8">
+    <animateTransform attributeName="transform" type="translate" values="0,-3;0,263" dur="5s" repeatCount="indefinite" calcMode="linear" begin="0.8s"/>
+    <animate attributeName="opacity" values="0;0.45;0.45;0" keyTimes="0;0.03;0.97;1" dur="5s" repeatCount="indefinite" begin="0.8s"/>
+  </rect>
+</svg>
