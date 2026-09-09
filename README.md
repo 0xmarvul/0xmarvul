@@ -70,14 +70,19 @@ Currently building toward private program access and expanding my offensive secu
 
 ## 🛠️ Arsenal
 
-![Subfinder](https://img.shields.io/badge/Subfinder-0d1117?style=flat-square&logoColor=00CFA8)
-![Amass](https://img.shields.io/badge/Amass-0d1117?style=flat-square&logoColor=00CFA8)
-![httpx](https://img.shields.io/badge/httpx-0d1117?style=flat-square&logoColor=00CFA8)
-![ffuf](https://img.shields.io/badge/ffuf-0d1117?style=flat-square&logoColor=00CFA8)
-![Nuclei](https://img.shields.io/badge/Nuclei-0d1117?style=flat-square&logoColor=00CFA8)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+<div align="center">
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00CFA8)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00CFA8)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00CFA8)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00CFA8)
+![Subfinder](https://img.shields.io/badge/Subfinder-0d1117?style=for-the-badge&logoColor=00CFA8)
+![Amass](https://img.shields.io/badge/Amass-0d1117?style=for-the-badge&logoColor=00CFA8)
+![httpx](https://img.shields.io/badge/httpx-0d1117?style=for-the-badge&logoColor=00CFA8)
+![ffuf](https://img.shields.io/badge/ffuf-0d1117?style=for-the-badge&logoColor=00CFA8)
+![Nuclei](https://img.shields.io/badge/Nuclei-0d1117?style=for-the-badge&logoColor=00CFA8)
+
+</div>
 
 ---
 
